@@ -8,7 +8,6 @@ Nyx Browser- Browser for sustainable searching
 - OmegaOS
 - R3KON GPT
 - Nyx Browser
-- Future cyber learning systems
 
 ## 🛠 Tech Stack
 - Linux
