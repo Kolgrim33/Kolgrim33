@@ -32,5 +32,13 @@ Building African-first software infrastructure focused on:
 
 ## 🔗 Links
 - LinkedIn - https://www.linkedin.com/in/selby-mashiki-974a58229/
-- Devpost - https://devpost.com/mashikiselby?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
+- Devpost - https://devpost.com/mashikiselby?ref_content=user-por
+-<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/d5024231-ce8e-4576-80f2-c5ada75087c4" />
+
+-
+![banner](https://raw.githubusercontent.com/Kolgrim33/Kolgrim33/main/your-banner-filename.png)tfolio&ref_feature=portfolio&ref_medium=global-nav
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kolgrim33)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
   
