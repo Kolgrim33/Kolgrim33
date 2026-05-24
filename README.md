@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Selby Mashiki 👋
 
-<!--
-**Kolgrim33/Kolgrim33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Co-Founder of Axoryn Robotics 🇿🇼  
+Creator of OmegaOS — an African-first Linux distribution.
+Nyx Browser- Browser for sustainable searching
 
-Here are some ideas to get you started:
+##  Current Projects
+- OmegaOS
+- R3KON GPT
+- Nyx Browser
+- Future cyber learning systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Linux
+- Python
+- Bash
+- GTK
+- Ubuntu/Debian
+- Git/GitHub
+- C++
+- HTML/CSS
+- PHP
+- Node.js
+
+## Mission
+Building African-first software infrastructure focused on:
+- Offline computing
+- Low-bandwidth systems
+- Cybersecurity
+- Sustainability
+- Climate change awareness
+- Open source education
+
+## 🔗 Links
+- LinkedIn
+  
