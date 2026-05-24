@@ -32,5 +32,6 @@ Building African-first software infrastructure focused on:
 - Open source education
 
 ## 🔗 Links
-- LinkedIn
+- LinkedIn - https://www.linkedin.com/in/selby-mashiki-974a58229/
+- Devpost - https://devpost.com/mashikiselby?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
   
