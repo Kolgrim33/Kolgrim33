@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Kolgrim33/Kolgrim33/main/your-banner-filename.png)tfolio&ref_feature=portfolio&ref_medium=global-nav
+  <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/ee58136f-efd0-4f2b-a64e-b19f6d16c753" />
 
 # Hi, I'm Selby Mashiki 👋
 
@@ -22,6 +22,8 @@ Nyx Browser- Browser for sustainable searching
 - HTML/CSS
 - PHP
 - Node.js
+
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kolgrim33)
 
 ## Mission
