@@ -51,10 +51,11 @@ Nyx Browser- Browser for sustainable searching
 Building African-first software infrastructure focused on:
 - Offline computing
 - Low-bandwidth systems
-- Cybersecurity
-- Sustainability
+- Cybersecurity/Information security
+- Sustainability and climate awareness
 - Climate change awareness
 - Open source education
+- 
 
   
 ## Streak
