@@ -1,8 +1,8 @@
   <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/ee58136f-efd0-4f2b-a64e-b19f6d16c753" />
 
-# Hi, I'm Selby Mashiki 👋
+# Hi, I'm Selby Mashiki 
 
-Co-Founder of Axoryn Robotics 🇿🇼  
+Co-Founder of Axoryn Robotics 
 Creator of OmegaOS — an African-first Linux distribution.
 Nyx Browser- Browser for sustainable searching
 
@@ -34,7 +34,6 @@ Nyx Browser- Browser for sustainable searching
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
