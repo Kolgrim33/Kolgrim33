@@ -1,4 +1,3 @@
-  <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/ee58136f-efd0-4f2b-a64e-b19f6d16c753" />
 
 # Hi, I'm Selby Mashiki 
 
