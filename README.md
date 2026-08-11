@@ -1,10 +1,10 @@
-# Hi, I'm Selby Mashiki 👋
+# Hi, I'm Selby Mashiki 
 
-Linux Engineer• Open Source Contributor • IMT Student 
+Linux Engineer• Open Source Contributor 
 
 I'm passionate about building software that makes technology more accessible, especially in environments with limited connectivity. My work focuses on Linux, cybersecurity, offline-first systems, and developer tools.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ###  OmegaOS
 An African-first Linux distribution designed for offline learning, cybersecurity education, and low-bandwidth environments.
@@ -61,7 +61,7 @@ My interests include:
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kolgrim33)
 
