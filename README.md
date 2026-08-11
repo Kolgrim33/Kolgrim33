@@ -6,18 +6,18 @@ I'm passionate about building software that makes technology more accessible, es
 
 ## 🚀 Featured Projects
 
-### 🐧 OmegaOS
+###  OmegaOS
 An African-first Linux distribution designed for offline learning, cybersecurity education, and low-bandwidth environments.
 
-### 🌍 Nyx Browser
+### Nyx Browser
 A lightweight browser that promotes sustainable searching while providing a fast browsing experience.
 
-### 🛡️ R3KON GPT
+###  R3KON GPT
 An offline AI assistant for cybersecurity training, incident response, and secure learning environments.
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -46,7 +46,7 @@ An offline AI assistant for cybersecurity training, incident response, and secur
 
 ---
 
-## 🌍 Mission
+##  Mission
 
 I enjoy building software that helps people learn, create, and work with fewer barriers.
 
