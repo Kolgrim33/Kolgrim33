@@ -1,73 +1,81 @@
-# Hi, I'm Selby Mashiki 
+<a href="https://github.com/Kolgrim33"><img src="assets/hero.svg" width="100%" alt="Selby Mashiki. Software engineer in Harare, Zimbabwe. I build Linux, Rust, security and astronomy software."></a>
 
-Linux Engineer• Open Source Contributor 
+I'm a software engineer at the Zimbabwean Astronomical Society, a student at the National University of Science and Technology (NUST), and a Linux instructor with Cisco Networking Academy. I also do AI research with Algoverse.
 
-I'm passionate about building software that makes technology more accessible, especially in environments with limited connectivity. My work focuses on Linux, cybersecurity, offline-first systems, and developer tools.
+Most of what I build sits close to the operating system: a Linux distribution, a privacy browser, terminal tools in Rust, and research on what language models can learn about people who think they are anonymous.
 
-##  Featured Projects
+## Upstream
 
-###  OmegaOS
-An African-first Linux distribution designed for offline learning, cybersecurity education, and low-bandwidth environments.
+Code I've sent to projects other people maintain.
 
-### Nyx Browser
-A lightweight browser that promotes sustainable searching while providing a fast browsing experience.
+| Project | Contribution | Status |
+|---|---|---|
+| [rust-lang/rust](https://github.com/rust-lang/rust/pull/165518) | Style guide: remove the rule that `extern` items must spell out their ABI, following a Style Team decision | Merged |
+| Linux kernel | Fix a device-tree reference leak in `tegra186_mc_probe_device()`, NVIDIA Tegra memory-controller driver | Accepted into the memory-controller tree |
+| [rust-lang/rust](https://github.com/rust-lang/rust/pull/165619) | Boolean expressions in `is_*_feature_detected!`, and [`RangeIntersect`](https://github.com/rust-lang/rust/pull/165618) for `core::range` types | In review |
+| [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3/pull/1596) | `deepseek-setup`, a Rust CLI that checks hardware and sets up inference, plus a [requirements checker](https://github.com/deepseek-ai/DeepSeek-V3/pull/1584) | In review |
+| [archlinux/archinstall](https://github.com/archlinux/archinstall/pulls?q=author%3AKolgrim33) | Five installer fixes: swap, LVM with Btrfs, custom profiles, device paths, wiping | In review |
+| [sxyazi/yazi](https://github.com/sxyazi/yazi/pull/4482) | Copy and move files out of the trash | In review |
 
-###  R3KON GPT
-An offline AI assistant for cybersecurity training, incident response, and secure learning environments.
+## Projects
 
----
+<table>
+  <tr>
+    <td width="50%"><a href="https://omega-os.co.zw"><img src="assets/cards/omegaos.svg" width="100%" alt="OmegaOS: an offline-first Linux distribution for older hardware, built for cybersecurity learning. 2nd place, InnovatorsX Startup Sprint."></a></td>
+    <td width="50%"><a href="https://nyx.co.zw"><img src="assets/cards/nyx.svg" width="100%" alt="Nyx Browser: a privacy browser for Android with a tracker shield, private tabs, Tor mode and a lite mode. 100+ users."></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://zas-explore-universe.web.app"><img src="assets/cards/zas.svg" width="100%" alt="ZAS: Explore the Universe, the Zimbabwean Astronomical Society app with 19 lessons, tonight's sky and certificates."></a></td>
+    <td width="50%"><a href="https://doi.org/10.5281/zenodo.23453955"><img src="assets/cards/tor.svg" width="100%" alt="Tor Hides Your IP, Not Your Words: free LLMs inferred anonymous users' personal attributes from their text at 64.3% accuracy."></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://huggingface.co/Kolgrim/farzenith-small-v1"><img src="assets/cards/farzenith.svg" width="100%" alt="FarZenith: a from-scratch astronomy language model that turns questions into physics simulations."></a></td>
+    <td width="50%"><a href="https://github.com/Kolgrim33/netscope"><img src="assets/cards/netscope.svg" width="100%" alt="netscope: a Rust terminal app that shows your interfaces, routes and devices as a graph."></a></td>
+  </tr>
+</table>
 
-##  Tech Stack
+Source: [OmegaOS](https://github.com/Kolgrim33/OmegaOS), [Nyx Browser](https://github.com/Kolgrim33/Nyx-Browser-), [Tor paper code and data](https://github.com/Kolgrim33/tor-words-paper), [netscope](https://github.com/Kolgrim33/netscope).
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### More
 
-### Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Rust**
+- [omega-lang](https://github.com/Kolgrim33/omega-lang), a small language for security scripting
+- [linux_replay](https://github.com/Kolgrim33/linux_replay), a timeline of your Linux setup from system logs and package history
+- [rulesmith](https://github.com/Kolgrim33/rulesmith), build firewall rules with the arrow keys instead of typing them
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Arch Linux and Hyprland**
+- [hyprkit](https://github.com/Kolgrim33/hyprkit), a Hyprland toolkit with a Waybar module manager, a doctor and a config linter
+- [centium](https://github.com/Kolgrim33/centium), a friendlier wrapper around Arch package management
+- [pkgstory](https://github.com/Kolgrim33/pkgstory), your Arch install's history, told from `pacman.log`
+- [arch-doctor](https://github.com/Kolgrim33/arch-doctor), health checks for a rolling-release system
 
-### Linux & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**Security and AI**
+- [HADES web watcher](https://github.com/Kolgrim33/HADES--WEB-WATCHER), find where a username appears across the web
+- [R3KON](https://github.com/Kolgrim33/r3kon), an offline AI assistant for cybersecurity training
+- [deepseek-cyber-eval](https://github.com/Kolgrim33/deepseek-cyber-eval), a cybersecurity evaluation suite for DeepSeek models
+- [Centium VPN](https://github.com/Kolgrim33/centiumvpn), a Tor-based VPN
 
----
+**Apps**
+- [MyCharacter AI](https://mycharacterai.web.app), chat with original characters, including African storytellers from twelve countries
+- [Aethar Tech](https://aethar-tech.web.app), the studio behind Nyx Browser
 
-##  Mission
+## Experience
 
-I enjoy building software that helps people learn, create, and work with fewer barriers.
+- **Software Engineer**, Zimbabwean Astronomical Society, Oct 2026 to now
+- **Rust contributor**, rust-lang/rust, Aug 2026 to now
+- **Linux Instructor**, Cisco Networking Academy, Jun 2026 to now
+- **AI Research**, Algoverse
+- **Student**, National University of Science and Technology
 
-My interests include:
+## Tools I use
 
-- Linux and open source
-- Cybersecurity
-- Offline-first computing
-- Low-bandwidth infrastructure
-- Sustainable software
-- AI developer tools
+| | |
+|---|---|
+| Languages | Rust, C, C++, Python, TypeScript, Kotlin |
+| Systems | Linux, Arch, Ubuntu, Hyprland, Docker |
+| ML | PyTorch, Hugging Face |
+| Apps | Expo, React, Firebase, Android |
 
----
+## Elsewhere
 
-##  GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kolgrim33)
-
----
-
-## 🤝 Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/selby-mashiki-974a58229/
-- 🚀 Devpost: https://devpost.com/mashikiselby
+[LinkedIn](https://www.linkedin.com/in/selby-mashiki-974a58229/) &nbsp; [Devpost](https://devpost.com/mashikiselby) &nbsp; [Hugging Face](https://huggingface.co/Kolgrim) &nbsp; [Research on Zenodo](https://doi.org/10.5281/zenodo.23453955)
