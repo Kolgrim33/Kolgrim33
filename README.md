@@ -4,6 +4,14 @@ I'm a software engineer at the Zimbabwean Astronomical Society, a student at the
 
 Most of what I build sits close to the operating system: a Linux distribution, a privacy browser, terminal tools in Rust, and research on what language models can learn about people who think they are anonymous.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Kolgrim33&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=E8B730&fire=E8B730&currStreakNum=F1E9D2&sideNums=F1E9D2&currStreakLabel=E8B730&sideLabels=A9AECB&dates=7C8CC4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Kolgrim33&theme=default&background=FFFFFF&border=E1E4E8&stroke=E1E4E8&ring=D97706&fire=D97706&currStreakNum=1F2937&sideNums=1F2937&currStreakLabel=D97706&sideLabels=4B5563&dates=6B7280" />
+    <img src="https://streak-stats.demolab.com/?user=Kolgrim33&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=E8B730&fire=E8B730&currStreakNum=F1E9D2&sideNums=F1E9D2&currStreakLabel=E8B730&sideLabels=A9AECB&dates=7C8CC4" alt="Selby's GitHub Streak" />
+  </picture>
+</p>
+
 ## Upstream
 
 Code I've sent to projects other people maintain.
