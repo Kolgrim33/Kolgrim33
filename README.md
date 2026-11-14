@@ -20,10 +20,6 @@ Code I've sent to projects other people maintain.
 |---|---|---|
 | [rust-lang/rust](https://github.com/rust-lang/rust/pull/165518) | Style guide: remove the rule that `extern` items must spell out their ABI, following a Style Team decision | Merged |
 | [Linux kernel](https://patchew.org/linux/20261025190322.449324-1-mashikiselby@gmail.com/) | Fix a device-tree reference leak in `tegra186_mc_probe_device()`, NVIDIA Tegra memory-controller driver | Accepted by maintainer Krzysztof Kozlowski into the memory-controller tree |
-| [rust-lang/rust](https://github.com/rust-lang/rust/pull/165619) | Boolean expressions in `is_*_feature_detected!`, and [`RangeIntersect`](https://github.com/rust-lang/rust/pull/165618) for `core::range` types | In review |
-| [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3/pull/1596) | `deepseek-setup`, a Rust CLI that checks hardware and sets up inference, plus a [requirements checker](https://github.com/deepseek-ai/DeepSeek-V3/pull/1584) | In review |
-| [archlinux/archinstall](https://github.com/archlinux/archinstall/pulls?q=author%3AKolgrim33) | Five installer fixes: swap, LVM with Btrfs, custom profiles, device paths, wiping | In review |
-| [sxyazi/yazi](https://github.com/sxyazi/yazi/pull/4482) | Copy and move files out of the trash | In review |
 
 ## Projects
 
